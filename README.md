@@ -9,6 +9,7 @@
 
 ## Data Access Method Talks
 * [Firefly - Instant, Full-Text Search Engine for Dropbox](https://www.youtube.com/watch?v=tIsE6ltYIlk)
+* [RocksDB: A High Performance Embedded Key-Value Store for Flash Storage](https://www.youtube.com/watch?v=imlP3lxwGgQ)
 
 ## Storage and Caching
 * [f4: Facebook's Warm BLOB Storage System](https://www.youtube.com/watch?v=imlP3lxwGgQ)
