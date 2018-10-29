@@ -9,3 +9,6 @@
 
 ## Data Access Method Talks
 * [Firefly - Instant, Full-Text Search Engine for Dropbox](https://www.youtube.com/watch?v=tIsE6ltYIlk)
+
+## Storage and Caching
+* [f4: Facebook's Warm BLOB Storage System](https://www.youtube.com/watch?v=imlP3lxwGgQ)
