@@ -13,3 +13,7 @@
 
 ## Storage and Caching
 * [f4: Facebook's Warm BLOB Storage System](https://www.youtube.com/watch?v=imlP3lxwGgQ)
+
+## Courses
+* [MIT 6.001 Structure and Interpretation, 1986](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+* [Type Theory](https://courses.cs.ut.ee/2011/typet/)
